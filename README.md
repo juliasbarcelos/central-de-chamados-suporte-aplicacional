@@ -1,29 +1,24 @@
-Central de Chamados - Suporte Aplicacional
-Sobre o Projeto
+# Ambiente de Suporte Aplicacional
 
-Projeto desenvolvido para simular um ambiente de suporte aplicacional utilizando Ubuntu Server em máquina virtual.
+## Objetivo
 
-O ambiente será composto por:
+Simular um ambiente de Suporte Aplicacional utilizando Linux Ubuntu e PostgreSQL, aplicando conceitos de monitorização de serviços, análise de logs, gestão de incidentes e administração de bases de dados.
 
-Ubuntu Server
-Apache
-Banco de Dados MariaDB
-GLPI (Central de Chamados)
-Documentação Técnica
-Objetivos
-Praticar administração Linux
-Configurar ambiente de suporte
-Gerenciar chamados
-Produzir documentação técnica
-Construir portfólio para vagas de TI
-Status
+## Tecnologias Utilizadas
 
-🚧 Em desenvolvimento
+* Ubuntu Linux
+* PostgreSQL
+* Git
+* SQL
+* VirtualBox
 
-Documentação
-Instalação do Ubuntu
-Configuração de Rede
-Instalação do Apache
-Instalação do Banco de Dados
-Instalação do GLPI
-Testes e Evidências
+## Etapas Concluídas
+
+### Etapa 1 - Preparação do Ambiente
+
+* Instalação do VirtualBox
+* Instalação do Ubuntu
+* Atualização do sistema operativo
+* Verificação dos recursos do sistema
+* Instalação do PostgreSQL
+
